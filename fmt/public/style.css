@@ -1,0 +1,77 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+.hidn{
+    overflow: hidden;
+}
+
+.main {
+
+    text-transform: capitalize;
+
+}
+
+.spn {
+    transition: 0.7s;
+}
+
+.im {
+    transition: 0.5s;
+}
+
+.im :hover {
+    margin-top: -10px;
+    transition: 0.5s;
+}
+
+.ss {
+    width: 31%;
+}
+
+.ss :hover {
+    margin-top: -13px;
+    transition: 0.5s;
+}
+
+.ex {
+    font-family: sans-serif;
+}
+
+body {
+    text-transform: capitalize;
+}
+
+.bk {
+    color: white;
+    text-decoration: none;
+}
+
+.kf {
+    text-decoration: none;
+}
+
+div {
+    text-transform: capitalize;
+}
+
+h1 {
+    text-transform: capitalize;
+}
+
+p {
+    text-transform: capitalize;
+}
+
+.lo {
+    text-decoration: none;
+}
+
+.haoi {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.ja {
+    text-decoration: none;
+}
